@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Richie-rich-bot
+- 👋 Hi, I’m RIchie
 - 👀 I’m interested in scientific computing 
 - 🌱 I’m curious to know new things 
 
